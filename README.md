@@ -42,7 +42,6 @@ Click **"Open Sandbox"** to explore and edit the code directly in your browser.
 
 ## 📸 Screenshot
 
-*You can add a screenshot here to give users a visual preview of your project.*
 ![work5a](https://github.com/user-attachments/assets/3152dbb1-742e-4fa2-a43e-098067968f70)
 
 
